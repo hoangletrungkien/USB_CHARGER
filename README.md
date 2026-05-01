@@ -1,6 +1,6 @@
 # 6-Port USB Fast Charging Hub — 4-Layer PCB
 
-![3D Render](docs/render_3d.png)
+![3D Render](docs/render.png)
 
 > **Status:** Design Complete — DRC Clean  
 > **Tool:** Altium Designer (Multi-Channel) | **PCB:** 4-Layer, JLCPCB stackup  
@@ -163,12 +163,10 @@ L4 — Signal (1 oz)             ← secondary routing
 
 | File | Description |
 |------|-------------|
-| `schematic/usb_hub_top.pdf` | Top-level hierarchical sheet |
-| `schematic/channel_module.pdf` | Single channel schematic |
-| `docs/layout_top.png` | PCB layout — top layer |
+| `schematic.pdf` | Schematic |
 | `docs/layout_bottom.png` | PCB layout — bottom layer |
-| `docs/render_3d.png` | Altium 3D render |
-| `docs/render_isometric.png` | Isometric 3D view |
+| `docs/render.png` | Altium 3D render |
+| `docs/layout_top.png` | Isometric 3D view |
 
 ---
 
